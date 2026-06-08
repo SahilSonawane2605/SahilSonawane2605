@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sahil Sonawane 🧑🏾‍💻</h1>
 <h3 align="center">A passionate AI/ML Engineer from India 🤖</h3>
-
+<br>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sahilsonawane2605.sahilsonawane2605&"  />
 </div>
 
+<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
