@@ -58,7 +58,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
 <a href="https://sahilsonawane2605.github.io/connect-with-sahil/" target="_blank">
-  <img src="https://img.shields.io/badge/⚡%20Let's%20Connect-SAGE%20AI-6C63FF?style=for-the-badge" height="25" />
+  <img src="https://img.shields.io/badge/🚀%20Connect%20With%20Sahil-00F5FF?style=for-the-badge&logo=github&logoColor=black" height="25" />
 </a>
 
 </div>
