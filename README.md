@@ -57,10 +57,10 @@
   <a href="https://instagram.com/sahil_s.26" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
+<a href="https://sahilsonawane2605.github.io/connect-with-sahil/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀%20Connect%20With%20Sahil-SAGE%20Portal-6C63FF?style=for-the-badge" height="25" alt="Connect With Sahil" />
+</a>
 
-  <a href="https://wa.me/9021058594" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="25" alt="whatsapp logo" />
-  </a>
 </div>
 
 ###
