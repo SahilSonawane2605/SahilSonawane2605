@@ -66,8 +66,8 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sahilsonawane2605/sahilsonawane2605/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/sahilsonawane2605/sahilsonawane2605/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+  <img src="https://raw.githubusercontent.com/SahilSonawane2605/SahilSonawane2605/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/SahilSonawane2605/SahilSonawane2605/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
 </div>
 
 ###
