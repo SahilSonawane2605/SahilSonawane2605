@@ -13,20 +13,13 @@
   <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
 </a>
 
-&nbsp;&nbsp;
+<br>
 
-<a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Gmail"/>
-</a>
-
-&nbsp;&nbsp;
 
 <a href="https://github.com/SahilSonawane2605" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
 </a>
-
-&nbsp;&nbsp;
-
+<br>
 <a href="https://www.instagram.com/Sahil_s.26" target="_blank">
   <img src="https://img.icons8.com/fluency/96/instagram-new.png" height="50" alt="Instagram"/>
 </a>
