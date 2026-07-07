@@ -9,16 +9,24 @@
 </p>
 <p align="center">
 
-<a href="https://www.linkedin.com/in/sahil-sonawane-bb075139a" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/sahil-sonawane-bb075139a">
+<img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/Sahil_s.26" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://sahilsonawane2605.github.io/connect-with-sahil/">
+<img src="https://img.shields.io/badge/Connect%20With%20Me-Personal%20Website-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="https://sahilsonawane2605.github.io/connect-with-sahil/" target="_blank">
-  <img src="https://img.shields.io/badge/-Connect%20With%20Me-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://github.com/SahilSonawane2605">
+<img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/Sahil_s.26">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
