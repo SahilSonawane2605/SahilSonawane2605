@@ -36,44 +36,43 @@ Second-year Computer Engineering student passionate about building AI-powered pr
 - Research Collaborations
 
 ---
-
-# Tech Stack
+# 💻 Tech Stack
 
 ## Languages
 
-Python • Java • JavaScript • SQL • C++
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,c,mysql" />
+</p>
 
 ## Frontend
 
-React • Vite • HTML • CSS
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind" />
+</p>
 
-## Backend
+## Backend & Databases
 
-Flask • Node.js • Express
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,firebase" />
+</p>
 
-## AI/ML
+## AI / ML
 
-OpenCV • MediaPipe • TensorFlow (Learning) • PyTorch (Learning)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+</p>
 
-## Tools
+## Cloud, DevOps & Tools
 
-Git • GitHub • VS Code • Arduino • ESP32
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,vscode,linux,postman" />
+</p>
 
----
+## Embedded & IoT
 
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| Computer Vision | Intermediate | OpenCV, MediaPipe |
-| Generative AI | Intermediate | LLM Applications |
-| Machine Learning | Learning | Supervised Learning |
-| Deep Learning | Learning | CNN Fundamentals |
-| Full Stack AI | Intermediate | Flask + React |
-
----
-
-# Featured Projects
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino" />
+</p># Featured Projects
 
 <details>
 <summary><b>MnemOS – AI Learning Twin</b></summary>
