@@ -9,24 +9,34 @@
 </p>
 <p align="center">
 
-<a href="https://www.linkedin.com/in/sahil-sonawane-bb075139a">
-<img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/sahil-sonawane-bb075139a" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
 </a>
 
-<a href="https://sahilsonawane2605.github.io/connect-with-sahil/">
-<img src="https://img.shields.io/badge/Connect%20With%20Me-Personal%20Website-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+&nbsp;&nbsp;
+
+<a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Gmail"/>
 </a>
 
-<a href="https://github.com/SahilSonawane2605">
-<img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+&nbsp;&nbsp;
+
+<a href="https://github.com/SahilSonawane2605" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/Sahil_s.26" target="_blank">
+  <img src="https://img.icons8.com/fluency/96/instagram-new.png" height="50" alt="Instagram"/>
 </a>
 
-<a href="https://www.instagram.com/Sahil_s.26">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</p>
+
+<p align="center">
+
+<a href="https://sahilsonawane2605.github.io/connect-with-sahil/" target="_blank">
+  <img src="https://img.shields.io/badge/✨%20Connect%20With%20Me-Visit%20My%20Digital%20Space-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=5B21B6"/>
 </a>
 
 </p>
