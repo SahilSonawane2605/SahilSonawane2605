@@ -13,12 +13,12 @@
   <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
 </a>
 
-<br>
+
 
 
 <a href="https://github.com/SahilSonawane2605" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
-</a>
+
 <br>
 <a href="https://www.instagram.com/Sahil_s.26" target="_blank">
   <img src="https://img.icons8.com/fluency/96/instagram-new.png" height="50" alt="Instagram"/>
