@@ -1,194 +1,170 @@
-# Sahil Sonawane
 
-> **AI/ML Engineer • GenAI Enthusiast • Computer Vision • Full Stack Developer**
-
-> **Note:** This is a starter premium README customized to your known profile. Replace placeholder usernames/links (e.g. `YOUR_GITHUB_USERNAME`) with your own.
-
----
+# 👋 Hi, I'm Sahil Sonawane
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Sahil%20Sonawane&fontAlign=50&fontAlignY=40&color=0:4B0082,50:6A5ACD,100:8A2BE2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Sahil%20Sonawane&fontColor=ffffff&fontSize=48&animation=fadeIn&color=0:4B0082,50:6A5ACD,100:8A2BE2"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+in+Progress;Generative+AI+%7C+Computer+Vision;Full+Stack+Developer;Hackathon+Builder"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3500&pause=900&center=true&vCenter=true&color=8A2BE2&width=850&lines=AI%2FML+Engineer+%7C+Computer+Vision;Generative+AI+%7C+LLMs;Full+Stack+Developer;Hackathon+Builder;Always+Learning+Always+Building"/>
 </p>
 
 <p align="center">
 
-![Student](https://img.shields.io/badge/Computer%20Engineering-Student-6A5ACD?style=for-the-badge)
-![India](https://img.shields.io/badge/Pune-India-4B0082?style=for-the-badge)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-6A5ACD?style=for-the-badge)](https://linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-8A2BE2?style=for-the-badge)](https://github.com/YOUR_GITHUB_USERNAME)
+![](https://img.shields.io/badge/Computer%20Engineering-Student-6A5ACD?style=for-the-badge)
+![](https://img.shields.io/badge/Pune-India-4B0082?style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet)
 
 </p>
 
 ---
 
-# About
+# 💫 About Me
 
-Second-year Computer Engineering student passionate about building AI-powered products with a focus on Generative AI, LLMs, Computer Vision, Full Stack Engineering and Cloud. I enjoy solving real-world problems through hackathons and open-source learning.
+I am a Computer Engineering student passionate about Artificial Intelligence, Machine Learning, Computer Vision, Generative AI and building real-world products through hackathons.
 
-**Open To**
-- AI/ML Internships
-- GenAI Projects
-- Open Source
-- Research Collaborations
+- 🔭 Building AI products
+- 🌱 Learning Deep Learning, Cloud & AI Security
+- 🤝 Open to AI/ML internships
+- ⚡ Love solving real-world problems
 
 ---
+
 # 💻 Tech Stack
 
 ## Languages
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,c,mysql" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,c,mysql"/>
 </p>
 
 ## Frontend
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind"/>
 </p>
 
-## Backend & Databases
-
+## Backend & Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,firebase"/>
 </p>
 
 ## AI / ML
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
 </p>
 
-## Cloud, DevOps & Tools
-
+## Cloud • Tools • IoT
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,vscode,linux,postman" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,git,github,vscode,linux,arduino,postman"/>
 </p>
 
-## Embedded & IoT
+---
+
+# 🤖 AI / ML Expertise
+
+| Domain | Level | Focus |
+|---|---|---|
+| Computer Vision | ⭐⭐⭐⭐☆ | OpenCV, MediaPipe |
+| Generative AI | ⭐⭐⭐⭐☆ | Gemini, LLM Apps |
+| Machine Learning | ⭐⭐⭐☆☆ | Scikit-learn |
+| Deep Learning | ⭐⭐☆☆☆ | CNNs |
+| Full Stack AI | ⭐⭐⭐⭐☆ | Flask + React |
+
+---
+
+# 🚀 Featured Projects
+
+<details>
+<summary><b>🧠 MnemOS – AI Learning Twin</b></summary>
+
+### Problem
+Students lose track of learning resources.
+
+### Solution
+AI assistant that analyzes browsing history and generates personalized learning insights.
+
+### Tech
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,git"/>
+
+| Stack | React • Express • Gemini |
+|---|---|
+| Status | Active |
+| Impact | Personalized learning |
+
+</details>
+
+<details>
+<summary><b>🚦 Smart Traffic Management</b></summary>
+
+AI traffic analysis using OpenCV.
+
+<img src="https://skillicons.dev/icons?i=python,opencv,flask"/>
+
+</details>
+
+<details>
+<summary><b>🤖 GestureVerse</b></summary>
+
+Interactive gesture-controlled experience using MediaPipe.
+
+<img src="https://skillicons.dev/icons?i=python,opencv"/>
+
+</details>
+
+<details>
+<summary><b>❤️ Stress Monitoring Dashboard</b></summary>
+
+ESP32 + Flask dashboard.
+
+<img src="https://skillicons.dev/icons?i=arduino,flask,javascript"/>
+
+</details>
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino" />
-</p># Featured Projects
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+</p>
 
-<details>
-<summary><b>MnemOS – AI Learning Twin</b></summary>
-
-AI assistant that analyzes learning patterns and provides personalized insights.
-
-| Category | Details |
-|---|---|
-| Stack | React, Node.js, Gemini |
-| Scale | Hackathon |
-| Performance | Fast API |
-| Security | API Key Protection |
-| Impact | Personalized Learning |
-
-</details>
-
-<details>
-<summary><b>Smart Traffic Management</b></summary>
-
-Computer Vision based traffic monitoring using OpenCV.
-
-</details>
-
-<details>
-<summary><b>GestureVerse</b></summary>
-
-Hand gesture powered interactive AI experience.
-
-</details>
-
-<details>
-<summary><b>Stress Monitoring Dashboard</b></summary>
-
-ESP32 + Sensors + Flask Dashboard.
-
-</details>
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-# Experience
+# 🏆 Trophies
 
-### AI/ML Student Developer
-
-- Built multiple AI projects
-- Participated in hackathons
-- Learning Cloud & AI Security
-
-**Skills:** Python, AI, ML, React, Flask
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
 ---
 
-# Achievements
-
-| Recognition | Details |
-|---|---|
-| Hackathons | Multiple Participation |
-| AI Projects | Real-world Applications |
-
----
-
-# Certifications
-
-- NPTEL DBMS
-- AWS (Learning)
-- Oracle (Learning)
-- Cisco (Learning)
-
----
-
-# Coding Profiles
-
-- LeetCode
-- GeeksforGeeks
-- HackerRank
-- CodeChef
-
----
-
-# GitHub Analytics
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-# GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight)
-
----
-
-# Contribution Activity
+# 📊 Activity Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)
 
 ---
 
-# Snake
+# 🐍 Snake
 
 ![](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-# Current Focus
+# 🎯 Current Focus
 
 ```yaml
 Learning:
   - Machine Learning
   - Deep Learning
-  - LLMs
+  - LLM Engineering
 Building:
   - AI Products
-  - Computer Vision Apps
+  - Computer Vision Applications
 Exploring:
   - Cloud
   - AI Security
@@ -199,15 +175,9 @@ OpenTo:
 
 ---
 
-# Connect
-
-- Email: your@email.com
-- LinkedIn: https://linkedin.com/
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME
-
----
-
-> "Building intelligent systems that create real-world impact."
+<p align="center">
+<i>"Turning AI into real-world impact."</i>
+</p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:4B0082,50:6A5ACD,100:8A2BE2"/>
