@@ -9,24 +9,19 @@
 </p>
 <p align="center">
 
-<a href="https://www.linkedin.com/in/sahil-sonawane-bb075139a">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+<a href="https://www.linkedin.com/in/sahil-sonawane-bb075139a" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/Sahil_s.26">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="48"/>
+<a href="https://www.instagram.com/Sahil_s.26" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://github.com/SahilSonawane2605">
-<img src="https://skillicons.dev/icons?i=github" height="48"/>
-</a>
-
-<a href="https://github.com/SahilSonawane2605/connect-with-sahil">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge"/>
+<a href="https://sahilsonawane2605.github.io/connect-with-sahil/" target="_blank">
+  <img src="https://img.shields.io/badge/-Connect%20With%20Me-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </p>
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=SahilSonawane2605&label=Profile%20Views&style=for-the-badge&color=8A2BE2"/>
 <img src="https://img.shields.io/github/followers/SahilSonawane2605?style=for-the-badge&color=8A2BE2"/>
