@@ -150,9 +150,6 @@ ESP32-powered dashboard for real-time stress monitoring.
 
 ---
 
-# 🐍 Contribution Snake
-
-![](https://raw.githubusercontent.com/SahilSonawane2605/SahilSonawane2605/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
