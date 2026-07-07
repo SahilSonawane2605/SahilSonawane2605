@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Sahil Sonawane
 
 <p align="center">
@@ -6,115 +5,107 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3500&pause=900&center=true&vCenter=true&color=8A2BE2&width=850&lines=AI%2FML+Engineer+%7C+Computer+Vision;Generative+AI+%7C+LLMs;Full+Stack+Developer;Hackathon+Builder;Always+Learning+Always+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3500&pause=900&center=true&vCenter=true&color=8A2BE2&width=900&lines=AI%2FML+Engineer;Generative+AI+%7C+Computer+Vision;Full+Stack+Developer;Hackathon+Builder;Turning+AI+into+Real+World+Impact"/>
 </p>
 
 <p align="center">
+<a href="https://www.linkedin.com/in/sahil-sonawane-bb075139a">
+<img src="https://img.shields.io/badge/LinkedIn-SahilSonawane2605-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/Sahil_s.26">
+<img src="https://img.shields.io/badge/Instagram-@Sahil__s.26-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://github.com/SahilSonawane2605/connect-with-sahil">
+<img src="https://img.shields.io/badge/Connect_With_Me-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
-![](https://img.shields.io/badge/Computer%20Engineering-Student-6A5ACD?style=for-the-badge)
-![](https://img.shields.io/badge/Pune-India-4B0082?style=for-the-badge)
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet)
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=SahilSonawane2605&label=Profile%20Views&style=for-the-badge&color=8A2BE2"/>
+<img src="https://img.shields.io/github/followers/SahilSonawane2605?style=for-the-badge&color=8A2BE2"/>
+<img src="https://img.shields.io/github/stars/SahilSonawane2605?style=for-the-badge&color=8A2BE2"/>
 </p>
 
 ---
 
 # 💫 About Me
 
-I am a Computer Engineering student passionate about Artificial Intelligence, Machine Learning, Computer Vision, Generative AI and building real-world products through hackathons.
+Computer Engineering student passionate about **AI/ML, Generative AI, Computer Vision, Full-Stack Development, Cloud, and AI Security**. I enjoy building practical products, participating in hackathons, and contributing to open-source projects.
 
-- 🔭 Building AI products
-- 🌱 Learning Deep Learning, Cloud & AI Security
-- 🤝 Open to AI/ML internships
-- ⚡ Love solving real-world problems
+- 🔭 Building AI-powered applications
+- 🌱 Learning Deep Learning, LLM Engineering & Cloud
+- 💼 Open to AI/ML internships
+- 🚀 Focused on solving real-world problems
 
 ---
 
 # 💻 Tech Stack
 
-## Languages
+### Languages
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,c,mysql"/>
 </p>
 
-## Frontend
+### Frontend
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind"/>
 </p>
 
-## Backend & Database
+### Backend & Databases
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,firebase"/>
 </p>
 
-## AI / ML
+### AI / ML
 <p align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
 </p>
 
-## Cloud • Tools • IoT
+### Cloud • Tools • IoT
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,git,github,vscode,linux,arduino,postman"/>
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,linux,arduino,postman"/>
 </p>
-
----
-
-# 🤖 AI / ML Expertise
-
-| Domain | Level | Focus |
-|---|---|---|
-| Computer Vision | ⭐⭐⭐⭐☆ | OpenCV, MediaPipe |
-| Generative AI | ⭐⭐⭐⭐☆ | Gemini, LLM Apps |
-| Machine Learning | ⭐⭐⭐☆☆ | Scikit-learn |
-| Deep Learning | ⭐⭐☆☆☆ | CNNs |
-| Full Stack AI | ⭐⭐⭐⭐☆ | Flask + React |
 
 ---
 
 # 🚀 Featured Projects
 
-<details>
-<summary><b>🧠 MnemOS – AI Learning Twin</b></summary>
+<details><summary><b>🧠 MnemOS – AI Learning Twin</b></summary>
 
-### Problem
-Students lose track of learning resources.
+AI-powered learning assistant that analyzes learning activity and provides personalized recommendations.
 
-### Solution
-AI assistant that analyzes browsing history and generates personalized learning insights.
-
-### Tech
+**Stack**
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,git"/>
 
-| Stack | React • Express • Gemini |
+|Category|Details|
 |---|---|
-| Status | Active |
-| Impact | Personalized learning |
+|AI|Gemini API|
+|Frontend|React|
+|Backend|Express|
+|Impact|Personalized learning|
 
 </details>
 
-<details>
-<summary><b>🚦 Smart Traffic Management</b></summary>
+<details><summary><b>🚦 Smart Traffic Management</b></summary>
 
-AI traffic analysis using OpenCV.
+Computer Vision based traffic monitoring using OpenCV.
 
 <img src="https://skillicons.dev/icons?i=python,opencv,flask"/>
 
 </details>
 
-<details>
-<summary><b>🤖 GestureVerse</b></summary>
+<details><summary><b>🤖 GestureVerse</b></summary>
 
-Interactive gesture-controlled experience using MediaPipe.
+Interactive gesture recognition project using MediaPipe and OpenCV.
 
 <img src="https://skillicons.dev/icons?i=python,opencv"/>
 
 </details>
 
-<details>
-<summary><b>❤️ Stress Monitoring Dashboard</b></summary>
+<details><summary><b>❤️ Smart Stress Monitoring Dashboard</b></summary>
 
-ESP32 + Flask dashboard.
+ESP32-powered dashboard for real-time stress monitoring.
 
 <img src="https://skillicons.dev/icons?i=arduino,flask,javascript"/>
 
@@ -122,7 +113,7 @@ ESP32 + Flask dashboard.
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=SahilSonawane2605&show_icons=true&theme=tokyonight"/>
@@ -135,21 +126,21 @@ ESP32 + Flask dashboard.
 
 ---
 
-# 🏆 Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SahilSonawane2605&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SahilSonawane2605&theme=tokyonight&no-frame=true"/>
 </p>
 
 ---
 
-# 📊 Activity Graph
+# 📈 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=SahilSonawane2605&theme=tokyo-night)
 
 ---
 
-# 🐍 Snake
+# 🐍 Contribution Snake
 
 ![](https://raw.githubusercontent.com/SahilSonawane2605/SahilSonawane2605/output/github-contribution-grid-snake-dark.svg)
 
@@ -162,12 +153,15 @@ Learning:
   - Machine Learning
   - Deep Learning
   - LLM Engineering
+
 Building:
   - AI Products
   - Computer Vision Applications
+
 Exploring:
   - Cloud
   - AI Security
+
 OpenTo:
   - Internship
   - Open Source
@@ -175,9 +169,23 @@ OpenTo:
 
 ---
 
+# 🤝 Connect With Me
+
 <p align="center">
-<i>"Turning AI into real-world impact."</i>
+
+<a href="https://www.linkedin.com/in/sahil-sonawane-bb075139a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<a href="https://www.instagram.com/Sahil_s.26"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+<a href="https://github.com/SahilSonawane2605"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<a href="https://github.com/SahilSonawane2605/connect-with-sahil"><img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge"/></a>
+
 </p>
+
+---
+
+<p align="center"><b>"Turning AI into real-world impact."</b></p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:4B0082,50:6A5ACD,100:8A2BE2"/>
