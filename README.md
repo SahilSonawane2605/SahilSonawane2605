@@ -125,12 +125,12 @@ ESP32 + Flask dashboard.
 # 📈 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SahilSonawane2605&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://streak-stats.demolab.com?user=SahilSonawane2605&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilSonawane2605&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -138,20 +138,20 @@ ESP32 + Flask dashboard.
 # 🏆 Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SahilSonawane2605&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
 # 📊 Activity Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=SahilSonawane2605&theme=tokyo-night)
 
 ---
 
 # 🐍 Snake
 
-![](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg)
+![](https://raw.githubusercontent.com/SahilSonawane2605/SahilSonawane2605/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
