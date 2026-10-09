@@ -15,7 +15,7 @@
 <!-- SOCIALS -->
 <a href="https://www.linkedin.com/in/sahil-sonawane-bb075139a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/Sahil_s.26/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="[CONFIGURE_PORTFOLIO_URL]"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://sahilsonawane-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 
 <img src="https://komarev.com/ghpvc/?username=SahilSonawane2605&style=flat&color=39d353&label=profile+views" alt="profile views">
 
