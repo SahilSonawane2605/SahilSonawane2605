@@ -1,0 +1,17 @@
+{
+  "_comment": "Featured repos, in README order.",
+  "projects": [
+    {
+      "repo": "MnemOS",
+      "description": "An AI-powered learning-memory system and practical prototype related to Agentic Learning Digital Twins."
+    },
+    {
+      "repo": "SURAKSHA-SETU",
+      "description": "A disaster-management intelligence and decision-support platform focused on hazard-zone analysis."
+    },
+    {
+      "repo": "ECO-ROUTE",
+      "description": "An environmental intelligence platform focused on identifying plastic pollution hotspots."
+    }
+  ]
+}
