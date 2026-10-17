@@ -42,15 +42,7 @@
 
 <br/>
 
-### 🧠 Profile &amp; Core Philosophy
-
-I am a **Third-year Computer Engineering student** at **KJEI's Trinity College of Engineering and Research, Pune (Class of 2028)**, exploring and building intelligent software systems with a primary technical focus on **Artificial Intelligence (AI), Machine Learning (ML), Generative AI (GenAI), and Agentic AI**.
-
-My engineering focus centers on:
-- **Machine Learning &amp; Prediction Systems:** Practical implementation of predictive models, tabular and spatial data processing, and rigorous model evaluation in Python.
-- **Generative AI &amp; LLMs:** Experimenting with Large Language Models, prompt engineering, structured output extraction, Google Gemini API integrations, and retrieval-augmented generation (RAG) concepts.
-- **Agentic AI &amp; Memory Architectures:** Designing multi-step agent workflows, tool-using agents, and stateful memory retrieval systems — explored through my research prototype **MnemOS / Agentic Learning Digital Twins**.
-- **AI Application Engineering &amp; Supporting Systems:** Leveraging robust backend APIs (**FastAPI, Flask, SQLite**) as critical infrastructure to deploy, test, and serve AI applications. Web interfaces (**React, Vite, Tailwind CSS**), computer vision (**OpenCV**), version control (**Git, GitHub**), and geospatial analysis (**Leaflet, Shapely**) serve as supporting technical capabilities.
+<img src="assets/ai-research-console.svg" alt="AI Engineer's Research Console — Sahil Sonawane" width="100%" />
 
 <br/><br/>
 
