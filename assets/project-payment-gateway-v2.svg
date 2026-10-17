@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 370" width="1200" height="370" role="img" aria-labelledby="p2-t">
+  <title id="p2-t">ECO-ROUTE: Environmental intelligence prototype for plastic leakage and coastal networks.</title>
+  <defs>
+    <linearGradient id="p2-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#161B22"/><stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <radialGradient id="p2-glow" cx="82%" cy="30%" r="55%">
+      <stop offset="0" stop-color="#7C3AED" stop-opacity=".6"/><stop offset="1" stop-color="#0D1117" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="p2-grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#00D9FF" stroke-opacity=".06"/>
+    </pattern>
+    <filter id="p2-glowf" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="p2-clip"><rect width="1200" height="370" rx="18"/></clipPath>
+    <linearGradient id="p2-trace" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00FFA3"/><stop offset=".45" stop-color="#00D9FF"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .p2-serif { font-family: Georgia, "Iowan Old Style", "Palatino Linotype", "Times New Roman", serif; }
+    .p2-mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .p2-sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .p2-in { animation: p2-in 1.2s cubic-bezier(.16,1,.3,1) both; }
+    .p2-d1 { animation-delay: .15s; } .p2-d2 { animation-delay: .4s; }
+    .p2-chip { animation: p2-chip .7s cubic-bezier(.34,1.56,.64,1) both; }
+    @keyframes p2-chip { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+    .p2-draw { stroke-dasharray: 600; stroke-dashoffset: 600; animation: p2-draw 2s cubic-bezier(.65,0,.35,1) .5s forwards; }
+    @keyframes p2-in { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+    @keyframes p2-draw { to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .p2-in, .p2-chip { animation: none; } .p2-draw { animation: none; stroke-dashoffset: 0; } }
+    .p2-trace { stroke-dasharray: 564 3136; stroke-dashoffset: 3700; animation: p2-trace 7s linear infinite; }
+    @keyframes p2-trace { to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .p2-trace { display: none; } }
+  </style>
+  <g clip-path="url(#p2-clip)">
+    <rect width="1200" height="370" fill="url(#p2-bg)"/>
+    <rect x="720" width="480" height="370" fill="url(#p2-grid)"/>
+    <rect width="1200" height="370" fill="url(#p2-glow)"/>
+    <rect x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="#30363D" stroke-opacity=".8"/>
+    <rect class="p2-trace" x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="url(#p2-trace)" stroke-width="1.8" stroke-linecap="round"/>
+    <g class="p2-in p2-d1">
+      <text class="p2-mono" x="56" y="62" font-size="12" letter-spacing="2.6" fill="#00D9FF">02 · ENVIRONMENTAL INTELLIGENCE · GIS ANALYSIS · 2026</text>
+      <text class="p2-serif" x="54" y="126" font-size="52" font-weight="300" letter-spacing="-1.5" fill="#F0F6FC">ECO-ROUTE</text>
+      <text class="p2-sans" x="56" y="166" font-size="17" fill="#8B949E">Tracking plastic leakage into Mumbai's drainage and coastal water networks.</text>
+      <text class="p2-mono" x="56" y="200" font-size="12.5" fill="#00FFA3"><tspan fill="#00D9FF">CAPABILITIES ›</tspan> [Implemented] Citizen reporting &amp; GIS analysis · [Proposed] Action tracker</text>
+      <line class="p2-draw" x1="56" y1="226" x2="680" y2="226" stroke="#30363D" stroke-width="1.2"/>
+    <g transform="translate(56 266)"><text class="p2-serif" font-size="34" font-weight="300" fill="#F0F6FC">Mumbai</text><text class="p2-sans" y="24" font-size="12.5" fill="#8B949E">drainage &amp; coastal networks</text></g>
+    <g transform="translate(261 266)"><text class="p2-serif" font-size="34" font-weight="300" fill="#F0F6FC">Hotspots</text><text class="p2-sans" y="24" font-size="12.5" fill="#8B949E">prioritized spatial analysis</text></g>
+    <g transform="translate(466 266)"><text class="p2-serif" font-size="34" font-weight="300" fill="#F0F6FC">Citizen</text><text class="p2-sans" y="24" font-size="12.5" fill="#8B949E">leakage reporting &amp; logging</text></g>
+      <g class="p2-chip" style="animation-delay:1.00s"><rect x="56" y="314" width="60" height="26" rx="13" fill="#161B22" stroke="#30363D"/><text class="p2-mono" x="86" y="331" text-anchor="middle" font-size="11.5" fill="#00D9FF">React</text></g>
+      <g class="p2-chip" style="animation-delay:1.12s"><rect x="124" y="314" width="70" height="26" rx="13" fill="#161B22" stroke="#30363D"/><text class="p2-mono" x="159" y="331" text-anchor="middle" font-size="11.5" fill="#00D9FF">FastAPI</text></g>
+      <g class="p2-chip" style="animation-delay:1.24s"><rect x="202" y="314" width="60" height="26" rx="13" fill="#161B22" stroke="#30363D"/><text class="p2-mono" x="232" y="331" text-anchor="middle" font-size="11.5" fill="#00D9FF">SQLite</text></g>
+      <g class="p2-chip" style="animation-delay:1.36s"><rect x="270" y="314" width="65" height="26" rx="13" fill="#161B22" stroke="#30363D"/><text class="p2-mono" x="302" y="331" text-anchor="middle" font-size="11.5" fill="#00D9FF">Leaflet</text></g>
+      <g class="p2-chip" style="animation-delay:1.48s"><rect x="343" y="314" width="70" height="26" rx="13" fill="#161B22" stroke="#30363D"/><text class="p2-mono" x="378" y="331" text-anchor="middle" font-size="11.5" fill="#00D9FF">Shapely</text></g>
+      <g class="p2-chip" style="animation-delay:1.60s"><rect x="421" y="314" width="118" height="26" rx="13" fill="#161B22" stroke="#30363D"/><text class="p2-mono" x="480" y="331" text-anchor="middle" font-size="11.5" fill="#00FFA3">OpenStreetMap</text></g>
+    </g>
+    <!-- Right side illustration: Pipeline and GIS Network State Machine -->
+    <g class="p2-in p2-d2"><g transform="translate(0 35)">
+      <g transform="translate(760 40)" class="p2-mono" font-size="13" text-anchor="middle">
+        <text x="12" y="20" text-anchor="start" font-size="10.5" letter-spacing="2.4" fill="#8B949E">DRAINAGE NETWORK · HOTSPOT PIPELINE</text>
+        <path d="M12 120 H70" stroke="#30363D"/>
+        <path class="p2-draw" d="M190 120 C 240 120, 250 64, 300 64" fill="none" stroke="#00D9FF" stroke-width="1.5"/>
+        <path d="M190 120 C 240 120, 250 176, 300 176" fill="none" stroke="#7C3AED" stroke-opacity=".7" stroke-dasharray="4 6"/>
+        <!-- Node 1: Citizen Report -->
+        <rect x="70" y="98" width="120" height="44" rx="22" fill="#161B22" stroke="#00D9FF" stroke-opacity=".6"/>
+        <text x="130" y="125" fill="#F0F6FC">report</text>
+        <!-- Node 2: Hotspot Prioritized (Success/Implemented) -->
+        <rect x="300" y="42" width="120" height="44" rx="22" fill="#0D1117" stroke="#00FFA3" stroke-width="1.5"/>
+        <text x="360" y="69" fill="#00FFA3">prioritized</text>
+        <!-- Node 3: Intervention Track (Proposed) -->
+        <rect x="300" y="154" width="120" height="44" rx="22" fill="#161B22" stroke="#7C3AED" stroke-dasharray="3 3"/>
+        <text x="360" y="181" fill="#8B949E">proposed</text>
+        <!-- Animated flow particle -->
+        <circle cx="0" cy="0" r="4" fill="#00FFA3">
+          <animateMotion dur="4s" repeatCount="indefinite" path="M12 120 H190 C 240 120, 250 64, 300 64"/>
+        </circle>
+      </g>
+    </g></g>
+  </g>
+</svg>
