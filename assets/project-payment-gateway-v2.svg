@@ -41,7 +41,7 @@
     <rect x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="#30363D" stroke-opacity=".8"/>
     <rect class="p2-trace" x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="url(#p2-trace)" stroke-width="1.8" stroke-linecap="round"/>
     <g class="p2-in p2-d1">
-      <text class="p2-mono" x="56" y="62" font-size="12" letter-spacing="2.6" fill="#00D9FF">02 · ENVIRONMENTAL INTELLIGENCE · GIS ANALYSIS · 2026</text>
+      <text class="p2-mono" x="56" y="62" font-size="12" letter-spacing="2.6" fill="#00D9FF">03 · ENVIRONMENTAL INTELLIGENCE · SUPPORTING PROTOTYPE · 2026</text>
       <text class="p2-serif" x="54" y="126" font-size="52" font-weight="300" letter-spacing="-1.5" fill="#F0F6FC">ECO-ROUTE</text>
       <text class="p2-sans" x="56" y="166" font-size="17" fill="#8B949E">Tracking plastic leakage into Mumbai's drainage and coastal water networks.</text>
       <text class="p2-mono" x="56" y="200" font-size="12.5" fill="#00FFA3"><tspan fill="#00D9FF">CAPABILITIES ›</tspan> [Implemented] Citizen reporting &amp; GIS analysis · [Proposed] Action tracker</text>

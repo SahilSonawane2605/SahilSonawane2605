@@ -41,10 +41,10 @@
     <rect x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="#30363D" stroke-opacity=".8"/>
     <rect class="p3-trace" x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="url(#p3-trace)" stroke-width="1.8" stroke-linecap="round"/>
     <g class="p3-in p3-d1">
-      <text class="p3-mono" x="56" y="62" font-size="12" letter-spacing="2.6" fill="#00D9FF">03 · AI/ML · RESEARCH PROTOTYPE · 2026</text>
+      <text class="p3-mono" x="56" y="62" font-size="12" letter-spacing="2.6" fill="#00D9FF">01 · FLAGSHIP AI &amp; AGENTIC PROTOTYPE · 2026</text>
       <text class="p3-serif" x="54" y="126" font-size="52" font-weight="300" letter-spacing="-1.5" fill="#F0F6FC">MnemOS<tspan class="p3-serif" font-size="20" font-style="italic" fill="#00FFA3" dx="14">Agentic Learning Digital Twins</tspan></text>
       <text class="p3-sans" x="56" y="166" font-size="17" fill="#8B949E">Learning-memory prototype for capture, storage, retrieval, and AI assistance.</text>
-      <text class="p3-mono" x="56" y="200" font-size="12.5" fill="#00FFA3"><tspan fill="#00D9FF">RESEARCH TOPIC ›</tspan> Agentic Learning Digital Twins — Intelligent Personalized Learning Framework</text>
+      <text class="p3-mono" x="56" y="200" font-size="12.5" fill="#00FFA3"><tspan fill="#00D9FF">RESEARCH DIRECTION ›</tspan> Agentic Learning Digital Twins — Intelligent Personalized Learning Framework</text>
       <line class="p3-draw" x1="56" y1="226" x2="680" y2="226" stroke="#30363D" stroke-width="1.2"/>
     <g transform="translate(56 266)"><text class="p3-serif" font-size="34" font-weight="300" fill="#F0F6FC">Context</text><text class="p3-sans" y="24" font-size="12.5" fill="#8B949E">capture &amp; timeline retrieval</text></g>
     <g transform="translate(261 266)"><text class="p3-serif" font-size="34" font-weight="300" fill="#F0F6FC">Gemini</text><text class="p3-sans" y="24" font-size="12.5" fill="#8B949E">API-assisted learning tutor</text></g>

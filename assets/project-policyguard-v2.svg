@@ -41,7 +41,7 @@
     <rect x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="#30363D" stroke-opacity=".8"/>
     <rect class="p1-trace" x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="url(#p1-trace)" stroke-width="1.8" stroke-linecap="round"/>
     <g class="p1-in p1-d1">
-      <text class="p1-mono" x="56" y="62" font-size="12" letter-spacing="2.6" fill="#00D9FF">01 · GIS · RISK ASSESSMENT · DETERMINISTIC · 2026</text>
+      <text class="p1-mono" x="56" y="62" font-size="12" letter-spacing="2.6" fill="#00D9FF">02 · DETERMINISTIC GIS PLATFORM · SUPPORTING PROJECT · 2025</text>
       <text class="p1-serif" x="54" y="126" font-size="50" font-weight="300" letter-spacing="-1.5" fill="#F0F6FC">SURAKSHA-SETU</text>
       <text class="p1-sans" x="56" y="166" font-size="17" fill="#8B949E">Deterministic seven-factor disaster-risk assessment platform.</text>
       <text class="p1-mono" x="56" y="200" font-size="12.5" fill="#00FFA3"><tspan fill="#00D9FF">BUILT ›</tspan> GIS visualization, habitation prioritization, shelter capacity &amp; relocation analysis</text>
